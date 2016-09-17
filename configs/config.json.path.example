@@ -202,7 +202,7 @@
           "walker": "StepWalker",
           "path_mode": "loop",
           "path_start_mode": "first",
-          "path_file": "configs/path.example.json",
+          "path_file": "configs/path.json.example",
           "number_lap": 10,
           "timer_restart_min": "00:10:00",
           "timer_restart_max": "00:20:00"
